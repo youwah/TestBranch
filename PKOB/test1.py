@@ -3,3 +3,4 @@
 #   path456('<int:question_id>/', views.detail, name='detail'),
 #   path45624('<int:question_id>/', views.detail, name='detail'),
 #   path4562421144324('<int:question_id>/', views.detail, name='detail'),
+#   path4562421('<int:question_id>/', views.detail, name='detail'),

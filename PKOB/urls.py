@@ -23,5 +23,6 @@ urlpatterns = [
     path('', views.home),
  #   path('<int:question_id>/', views.detail, name='detail'),
     path('pkob/', include('App_Soc.urls')),
+    path('pkob1/', include('App_Soc.urls')),
     path('<str:ic_text>/', views.customer_detail, name="customer_detail"),
 ]

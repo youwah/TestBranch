@@ -1,1 +1,1 @@
-#   path different('<int:question_id>/', views.detail, name='detail'),
+#   path different123('<int:question_id>/', views.detail, name='detail'),
